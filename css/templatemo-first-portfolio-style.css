@@ -468,7 +468,7 @@ strong {
   HERO              
 -----------------------------------------*/
 .hero {
-  background: var(--secondary-color);
+  background: linear-gradient(to bottom, var(--secondary-color) 0%, var(--primary-color) 100%);
   position: relative;
   overflow: hidden;
   padding-top: 330px;
